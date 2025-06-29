@@ -11,10 +11,10 @@
 
 | Project | TL;DR |
 |---------|-------|
-| **[IAFlow](https://github.com/RohanSai22/ia)** | AI‑powered onboarding toolkit used by 70 + early users |
+| **[IAFlow](https://github.com/RohanSai22/ia)** | Get your app just from a prompt used by 70 + early users |
 | **[QC Automation](https://github.com/RohanSai22/grid-repo)** | Computer‑vision system catching defects with 90 % + accuracy |
 | **[Solana Token Generator](https://github.com/RohanSai22/solanaTokenCreator)** | One‑click Solana token generator & dashboard |
-| **[SolX](https://github.com/RohanSai22/solX)** | Solidity helpers for rapid ERC‑20/721 deployment |
+| **[SolX](https://github.com/RohanSai22/solX)** | Twitter built on solana |
 | **[RNAG](https://github.com/RohanSai22/rnag)** | Retrieval‑Non‑Augmented‑Generation engine that cuts RAM by 80 % |
 | [**Solv**](https://github.com/RohanSai22/solv) | All‑in‑one Wallet Health Hub: Dust sweeper, SOL refuel, spam cleanup, limit‑orders, DCA wizard & Pro‑Trader tools across chains |
 
